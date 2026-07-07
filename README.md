@@ -54,7 +54,7 @@ Success criteria:
   of leaking framework-specific exceptions.
 
 Bonus:
-- Use the reserved chaos book IDs (990-999) to test your error handling
+- Use the reserved chaos book IDs (99, 991-999) to test your error handling
   against real failure scenarios (timeouts, 404s, malformed responses, etc.).
 
 ## Practical Task 2: WebClient
@@ -79,7 +79,7 @@ Success criteria:
   of leaking framework-specific exceptions.
 
 Bonus:
-- Use the reserved chaos book IDs (990-999) to test resilience (retries,
+- Use the reserved chaos book IDs (99, 991-999) to test resilience (retries,
   timeouts, error mapping) in a non-blocking way.
 
 ## Project Structure
